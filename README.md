@@ -8,7 +8,7 @@ This repository provides finite-element implementations for homogenizing thermo-
 Target effective properties include:
 - Elastic stiffness
 - Coefficient of thermal expansion (CTE)
-- Effective thermal conductivity (ETC)
+- Thermal conductivity (ETC)
 
 ### Repository Structure
 - `RVE_Generation/`: Build representative volume element (RVE) geometry models.
@@ -102,6 +102,7 @@ Depending on the selected workflow, outputs include:
 
 ## Citation / 引用
 If this program is helpful to your research, please cite the following paper:
+
 如果本程序对您的研究有帮助，请引用下述论文：
 
 Wenlong Tian, Xujiang Chao, Lehua Qi, *Finite element implementations of asymptotic expansion homogenization for thermo-mechanical composites: unified formulation and discrete consistency*, Review of Materials Research, 2026, Revision.
