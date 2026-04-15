@@ -85,7 +85,7 @@ for ind in ndcord:
 		NdEdB1C1.append(int(ind[0]))
 	if abs(ind[2]-ylenm)<1.0E-4 and abs(ind[3]-zlenm)<1.0E-4 and abs(ind[1]-xlenp)>1.0E-4 and abs(ind[1]-xlenm)>1.0E-4:
 		NdEdC1D1.append(int(ind[0]))
-	if abs(ind[2]-ylenm)<1.0E-4 and abs(ind[1]-xlenm)<1.0E-4 and abs(ind[3]-xlenp)>1.0E-4 and abs(ind[3]-zlenm)>1.0E-4:
+	if abs(ind[2]-ylenm)<1.0E-4 and abs(ind[1]-xlenm)<1.0E-4 and abs(ind[3]-zlenp)>1.0E-4 and abs(ind[3]-zlenm)>1.0E-4:
 		NdEdD1A1.append(int(ind[0]))
 	#
 	if abs(ind[3]-zlenp)<1.0E-4 and abs(ind[1]-xlenm)<1.0E-4 and abs(ind[2]-ylenp)>1.0E-4 and abs(ind[2]-ylenm)>1.0E-4:
