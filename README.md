@@ -105,4 +105,4 @@ If this program is helpful to your research, please cite the following paper:
 
 如果本程序对您的研究有帮助，请引用下述论文：
 
-Wenlong Tian, Xujiang Chao, Lehua Qi, *Finite element implementations of asymptotic expansion homogenization for thermo-mechanical composites: unified formulation and discrete consistency*, Review of Materials Research, 2026, Revision.
+Wenlong Tian, Xujiang Chao, Lehua Qi, *Finite element implementations of asymptotic expansion homogenization for thermo-mechanical composites: unified formulation and discrete consistency*, Review of Materials Research, 2026, 2 (5): 100201.
